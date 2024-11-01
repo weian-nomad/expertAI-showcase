@@ -1,0 +1,22 @@
+export const symptoms = [
+  "fever",
+  "cough",
+  "headache",
+  "fatigue",
+  "nausea",
+  "dizziness",
+  "chest pain",
+  "shortness of breath",
+  "sore throat",
+  "muscle aches",
+  "joint pain",
+  "abdominal pain",
+  "vomiting",
+  "diarrhea",
+  "rash",
+  "chills",
+  "loss of appetite",
+  "weight loss",
+  "night sweats",
+  "difficulty sleeping"
+];
